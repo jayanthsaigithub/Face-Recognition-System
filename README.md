@@ -9,7 +9,7 @@ This project implements a user authentication system using password, passphrase,
 
 ## Setup and Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: gh repo clone jayanthsaigithub/Face-Recognition-System
 2. Install the required Python packages: pip install -face_recognition
 3. Install the required Python packages: pip install -cv2
 4. Install the required Python packages: pip install -sqlite3
